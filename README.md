@@ -1,0 +1,1 @@
+This is a webscraping project. With the help of this one can get the information like total number of death ,recovery due to corona virus around the world. We only have to put the name of the country.
